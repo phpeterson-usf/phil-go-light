@@ -1,0 +1,22 @@
+{
+  "name": "phil-go-light",
+  "displayName": "phil-go-light",
+  "description": "",
+  "version": "0.0.1",
+  "repository": "https://github.com/phpeterson-usf/phil-go-light.git",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Phil Go Light",
+        "uiTheme": "vs",
+        "path": "./themes/Phil Go Light-color-theme.json"
+      }
+    ]
+  }
+}
