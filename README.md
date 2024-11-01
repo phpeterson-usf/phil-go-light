@@ -16,3 +16,5 @@
 1. `npm install -g yo generator-code` and `yo code` to make a starter theme and edit the various colors and syntax elements to my preference
 1. `npm install -g @vscode/vsce` and `vsce package` to build the required VSIX file
 1. Install the theme locally by going to Extensions, then the ellipsis menu at the upper right, then **Install from VSIX...**
+
+![image](phil-go-light.png)
